@@ -1,1 +1,1 @@
-# TODO : corriger cette fonction
+print('teste1 IA run')
