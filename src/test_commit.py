@@ -1,1 +1,1 @@
-# FIXME: erreur volontaire
+print('ok')
